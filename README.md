@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a Computer Engineering student and Full Stack developer, below you can see the main stack of my projects, but i'm always learning new tools.
+I'm a Computer Engineer and Full Stack developer, below you can see the main stack of my projects, but i'm always learning new tools.
 
 💅 Frontend
  - React 
