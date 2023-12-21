@@ -2,10 +2,13 @@
 
 I'm a Computer Engineer and Full Stack developer, below you can see the main stack of my projects, but i'm always learning new tools.
 
+🧑‍💻 Languages
+ - JavaScript/TypeScript
+ - Python
+
 💅 Frontend
  - React 
  - Next.js
- - TypeScript
 
 💡 On the Backend (Node.js), depending on the app requirements, I use:
  - Express
@@ -16,6 +19,8 @@ I'm a Computer Engineer and Full Stack developer, below you can see the main sta
 
 🚀 Deployment and workflow tools:
  - AWS EC2
+ - Google Cloud
  - NGINX
  - Docker
+ - Kubernetes
  - Git
